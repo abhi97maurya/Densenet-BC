@@ -1,4 +1,3 @@
-######## CSCE 636 Project #############
 In this project, deep learning model is designed and implemented to perform
 10-class image classification on the CIFAR-10 dataset.
 
